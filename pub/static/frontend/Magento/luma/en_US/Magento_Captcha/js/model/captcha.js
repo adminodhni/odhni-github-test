@@ -1,0 +1,1 @@
+/home/644594.cloudwaysapps.com/gzxuqwvjkq/public_html/vendor/magento/module-captcha/view/frontend/web/js/model/captcha.js

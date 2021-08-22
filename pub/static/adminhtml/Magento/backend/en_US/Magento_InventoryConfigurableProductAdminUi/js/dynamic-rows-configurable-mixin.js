@@ -1,0 +1,1 @@
+/home/644594.cloudwaysapps.com/gzxuqwvjkq/public_html/vendor/magento/module-inventory-configurable-product-admin-ui/view/adminhtml/web/js/dynamic-rows-configurable-mixin.js

@@ -1,0 +1,1 @@
+/home/644594.cloudwaysapps.com/gzxuqwvjkq/public_html/vendor/magento/module-downloadable/view/adminhtml/web/js/components/is-downloadable-handler.js

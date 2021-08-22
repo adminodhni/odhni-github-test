@@ -1,0 +1,1 @@
+/home/644594.cloudwaysapps.com/gzxuqwvjkq/public_html/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/theme.js

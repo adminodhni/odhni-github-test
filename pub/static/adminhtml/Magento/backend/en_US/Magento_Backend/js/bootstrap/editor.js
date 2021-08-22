@@ -1,0 +1,1 @@
+/home/644594.cloudwaysapps.com/gzxuqwvjkq/public_html/vendor/magento/module-backend/view/adminhtml/web/js/bootstrap/editor.js
